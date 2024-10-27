@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikoluofa.github.io/sitemap_index.ikoluofa
